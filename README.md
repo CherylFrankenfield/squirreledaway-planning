@@ -70,7 +70,8 @@ _The app will allow for events to be saved in database._
 
 ### 4. Project Planning - Today's Outline
 
-![UI](./images/wireframe_1.JPG)
+Routes: /home /new /event 
+![UI Sketch](./images/wireframe_1.jpg)
 
 
 ## Known Bugs
@@ -98,4 +99,4 @@ _If you have any issues, questions, ideas or concerns, please contact me._
 
 *MIT*
 
-Copyright (c)2018 **_Cheryl Frankenfield_**
+Copyright (c) 2018 **_Cheryl Frankenfield_**
