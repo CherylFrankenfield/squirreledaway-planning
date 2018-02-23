@@ -71,6 +71,11 @@ _The app will allow for events to be saved in database._
 ### 4. Project Planning - Today's Outline
 
 Routes: /home /new /event
+
+Link to Static Components Repo:
+https://github.com/CherylFrankenfield/squirreledaway-react-web.git
+
+Images:
 ![UI Sketch](./images/wireframe_1.jpg)
 
 ![Components highlighted](./images/wireframe_2.jpg)
