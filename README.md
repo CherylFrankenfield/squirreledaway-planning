@@ -20,28 +20,28 @@ Run:
 
 ### 1. Specs
 _The app will allow a user to add an event to a master event list._
-* _Input: ._
-* _Output: ._
+* _Input: User touches +New and form view is rendered for user's event input._
+* _Output: Event details are captured as new entry in master event list._
 
 _The app will allow a user to view the master event list._
-* _Input: ._
-* _Output: ._
+* _Input: User touches Events tab (may also just be the home view)._
+* _Output: List of master events are displayed in that view._
 
 _The app will allow a user to view a single event._
-* _Input: ._
-* _Output: ._
+* _Input: User touches single event displayed on master events lists view._
+* _Output: View is rendered to review that event's details._
 
 _The app will allow a user to update a single event._
-* _Input: ._
-* _Output: ._
+* _Input: User touches form field and keypad is displayed for editing._
+* _Output: User clicks done and new edits are saved to event._
 
 _The app will allow a user to delete a single event._
-* _Input: ._
-* _Output: ._
+* _Input: User touches/clicks a delete X or button._
+* _Output: Entry is deleted and removed from overall list (future user story here may be an "are you sure?" toaster indicator)._
 
 _The app will allow for events to be saved in database._
-* _Input: ._
-* _Output: ._
+* _Input: User adds multiple bucket list items to master list._
+* _Output: These are all saved in database and available to view in next session of opening app._
 
 ### 2. Future User Stories/Dependencies
 
@@ -70,6 +70,7 @@ _The app will allow for events to be saved in database._
 
 ### 4. Project Planning - Today's Outline
 
+![UI](./images/wireframe_1.JPG)
 
 
 ## Known Bugs
