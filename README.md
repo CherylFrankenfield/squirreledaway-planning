@@ -6,7 +6,7 @@
 
 ## Description
 
-_SquirreledAway’s goal is to combat boredom, keep you organized, step-up date night and be your local bucket list. Have you ever said the phrase, ‘We should do that sometime,’ but then never did? If that sounds like you, check out the SquirreledAway app. It helps you remember the things on your local bucket list, like camping at the folk festival, volunteering at the local beer fest each year, attending roller derby, and more!_
+_SquirreledAway’s goal is to combat boredom, keep you organized, step-up date night and be your local bucket list/ social events organizer. Have you ever said the phrase, ‘We should do that sometime,’ but then never did? If that sounds like you, check out the SquirreledAway app. It helps you remember the things on your local bucket list, like camping at the folk festival, volunteering at the local beer fest each year, attending roller derby, and more!_
 
 ## Setup/Installation Requirements
 
@@ -68,8 +68,8 @@ _The app will allow for events to be saved in database._
   4. Events List
   5. Calendar View
 
-### 4. Project Planning
-1.
+### 4. Project Planning - Today's Outline
+
 
 
 ## Known Bugs
