@@ -70,9 +70,12 @@ _The app will allow for events to be saved in database._
 
 ### 4. Project Planning - Today's Outline
 
-Routes: /home /new /event 
+Routes: /home /new /event
 ![UI Sketch](./images/wireframe_1.jpg)
 
+![Components highlighted](./images/wireframe_2.jpg)
+
+![Component Tree](./images/component-tree.jpg)
 
 ## Known Bugs
 
