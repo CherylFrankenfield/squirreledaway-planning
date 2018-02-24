@@ -68,7 +68,7 @@ _The app will allow for events to be saved in database._
   4. Events List
   5. Calendar View
 
-### 4. Project Planning - Today's Outline
+### 4. Project Planning - Today's Outline (2/23/18)
 
 Routes: /home /new /event
 
@@ -78,9 +78,9 @@ https://github.com/CherylFrankenfield/squirreledaway-react-web.git
 Images:
 ![UI Sketch](./images/wireframe_1.jpg)
 
-![Components highlighted](./images/wireframe_2.jpg)
+![Components highlighted](/images/wireframe_2.jpg)
 
-![Component Tree](./images/component-tree.jpg)
+![Component Tree](/images/component-tree.jpg)
 
 ## Known Bugs
 
