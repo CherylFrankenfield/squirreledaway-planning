@@ -10,11 +10,14 @@ _SquirreledAway’s goal is to combat boredom, keep you organized, step-up date 
 
 ## Setup/Installation Requirements
 
-* Git clone ()
+* Git clone [SqOne - SquirreledAway Repo](https://github.com/CherylFrankenfield/sqOne.git)
 
 Run:
 * npm install
-* npm run start
+* react-native run-ios
+
+Dependencies:
+* Emulator for mobile - Expo app or Xcode
 
 ## Planning
 
@@ -68,12 +71,9 @@ _The app will allow for events to be saved in database._
   4. Events List
   5. Calendar View
 
-### 4. Project Planning - Today's Outline (2/23/18)
+### 4. Project Planning - Outline (2/23/18)
 
 Routes: /home /new /event
-
-Link to Static Components Repo:
-https://github.com/CherylFrankenfield/squirreledaway-react-web.git
 
 Images:
 ![UI Sketch](./images/wireframe_1.jpg)
@@ -81,6 +81,11 @@ Images:
 ![Components highlighted](/images/wireframe_2.jpg)
 
 ![Component Tree](/images/component-tree.jpg)
+
+#### Planning Update (3/2/18)
+For the past week, I've reviewed several React Native tutorials (Currency Converter, Egghead.io Notetaker) and spun up projects both with create-react-native-app (using Expo app) and with XCode using react-native cli. I found that create-native-app was far easier to get a project started and exploring React Native, as learning all the dev tools that XCode has to offer would be another task to accomplish in the future. One time-consuming challenge yesterday (using XCode), was realizing that I needed to downgrade Node, after troubleshooting some other fixes that didn't work. All in all, today has run smoother with the goal to rebuild the static web components I did last [Friday's repo here](https://github.com/CherylFrankenfield/squirreledaway-react-web.git) into a mobile component structure [here](https://github.com/CherylFrankenfield/sqOne.git).
+
+My other goals for today/this weekend are to work through my eventual database structure, build out core components, read sections from O'Reilly's "Learning React Native" book, and continue to tackle the React Navigation as that is a key piece to being able to view/test all static components before moving on. 
 
 ## Known Bugs
 
