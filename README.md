@@ -85,7 +85,13 @@ Images:
 #### Planning Update (3/2/18)
 For the past week, I've reviewed several React Native tutorials (Currency Converter, Egghead.io Notetaker) and spun up projects both with create-react-native-app (using Expo app) and with XCode using react-native cli. I found that create-native-app was far easier to get a project started and exploring React Native, as learning all the dev tools that XCode has to offer would be another task to accomplish in the future. One time-consuming challenge yesterday (using XCode), was realizing that I needed to downgrade Node, after troubleshooting some other fixes that didn't work. All in all, today has run smoother with the goal to rebuild the static web components I did last [Friday's repo here](https://github.com/CherylFrankenfield/squirreledaway-react-web.git) into a mobile component structure [here](https://github.com/CherylFrankenfield/sqOne.git).
 
-My other goals for today/this weekend are to work through my eventual database structure, build out core components, read sections from O'Reilly's "Learning React Native" book, and continue to tackle the React Navigation as that is a key piece to being able to view/test all static components before moving on. 
+My other goals for today/this weekend are to work through my eventual database structure, build out core components, read sections from O'Reilly's "Learning React Native" book, and continue to tackle the React Navigation as that is a key piece to being able to view/test all static components before moving on.
+
+### State Planning (3/2/18)
+Please see Component Tree above. I had planned on state living in a Body component previously, but will need to work out the difference between components and screens in mobile / React Native. Since the Header/Footers seem to act more like routes in RN, most likely I will adjust state and place inside common parent -- Home. I plan to use Redux for state management eventually as I'll be using a database to store user info/events.
+
+### File Structure (3/2/18)
+![Folders](/images/files.png)
 
 ## Known Bugs
 
